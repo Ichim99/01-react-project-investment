@@ -2,7 +2,7 @@
   "name": "01-react-project-investment",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Ichim99.github.io/01-react-project-investment ",
+  "homepage": "https://Ichim99.github.io/01-react-project-investment",
   "type": "module",
   "scripts": {
     "dev": "vite",
